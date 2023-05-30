@@ -47,5 +47,4 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fqTYrGY/33.png" group-title="|IL|🇮🇱 ISRAEL",KAN 33 MAKAN
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1 tvg-id="האח הגדול 0" tvg-name="האח הגדול" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/r2VceK3.jpg" tvg-country="Israel" tvg-url="" group-title="IL|🇮🇱 ISRAEL",האח הגדול
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
+
