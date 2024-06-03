@@ -1,147 +1,147 @@
 #EXTM3U
-#EXTINF: -1 tvg-id=\"2670\" tvg-logo=\"http://epg.one/img/2670.png\", Keshet 12 IL
+#EXTINF:0 tvg-id=\"2670\" tvg-logo=\"http://epg.one/img/2670.png\", Keshet 12 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696824
-#EXTINF: -1 tvg-id=\"9055\" tvg-logo=\"http://epg.one/img/9055.png\", Viva Premium HD IL
+#EXTINF:0 tvg-id=\"9055\" tvg-logo=\"http://epg.one/img/9055.png\", Viva Premium HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696825
-#EXTINF: -1 tvg-id=\"9111\" tvg-logo=\"http://epg.one/img/9111.png\", Game Show Channel HD IL
+#EXTINF:0 tvg-id=\"9111\" tvg-logo=\"http://epg.one/img/9111.png\", Game Show Channel HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696826
-#EXTINF: -1 tvg-id=\"9056\" tvg-logo=\"http://epg.one/img/9056.png\", HOT Cinema Family HD IL
+#EXTINF:0 tvg-id=\"9056\" tvg-logo=\"http://epg.one/img/9056.png\", HOT Cinema Family HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696827
-#EXTINF: -1 tvg-id=\"9035\" tvg-logo=\"http://epg.one/img/9035.png\", 5Sport 4K IL
+#EXTINF:0 tvg-id=\"9035\" tvg-logo=\"http://epg.one/img/9035.png\", 5Sport 4K IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696828
-#EXTINF: -1 tvg-id=\"4030\" tvg-logo=\"http://epg.one/img/4030.png\", Turkish Dramas 3 HD IL
+#EXTINF:0 tvg-id=\"4030\" tvg-logo=\"http://epg.one/img/4030.png\", Turkish Dramas 3 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696829
-#EXTINF: -1 tvg-id=\"9075\" tvg-logo=\"http://epg.one/img/9075.png\", Turkish Dramas 2 HD IL
+#EXTINF:0 tvg-id=\"9075\" tvg-logo=\"http://epg.one/img/9075.png\", Turkish Dramas 2 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696830
-#EXTINF: -1 tvg-id=\"9076\" tvg-logo=\"http://epg.one/img/9076.png\", Turkish Dramas Plus HD IL
+#EXTINF:0 tvg-id=\"9076\" tvg-logo=\"http://epg.one/img/9076.png\", Turkish Dramas Plus HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696831
-#EXTINF: -1 tvg-id=\"2671\" tvg-logo=\"http://epg.one/img/2671.png\", Reshet 13 IL
+#EXTINF:0 tvg-id=\"2671\" tvg-logo=\"http://epg.one/img/2671.png\", Reshet 13 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696832
-#EXTINF: -1 tvg-id=\"2672\" tvg-logo=\"http://epg.one/img/2672.png\", Channel 9 IL
+#EXTINF:0 tvg-id=\"2672\" tvg-logo=\"http://epg.one/img/2672.png\", Channel 9 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696833
-#EXTINF: -1 tvg-id=\"2673\" tvg-logo=\"http://epg.one/img/2673.png\", Kan 11 IL
+#EXTINF:0 tvg-id=\"2673\" tvg-logo=\"http://epg.one/img/2673.png\", Kan 11 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696834
-#EXTINF: -1 tvg-id=\"2674\" tvg-logo=\"http://epg.one/img/2674.png\", Disney Jr IL
+#EXTINF:0 tvg-id=\"2674\" tvg-logo=\"http://epg.one/img/2674.png\", Disney Jr IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696835
-#EXTINF: -1 tvg-id=\"2675\" tvg-logo=\"http://epg.one/img/2675.png\", TeenNick IL
+#EXTINF:0 tvg-id=\"2675\" tvg-logo=\"http://epg.one/img/2675.png\", TeenNick IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696836
-#EXTINF: -1 tvg-id=\"2678\" tvg-logo=\"http://epg.one/img/2678.png\", Nick Jr IL
+#EXTINF:0 tvg-id=\"2678\" tvg-logo=\"http://epg.one/img/2678.png\", Nick Jr IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696837
-#EXTINF: -1 tvg-id=\"2679\" tvg-logo=\"http://epg.one/img/2679.png\", hop IL
+#EXTINF:0 tvg-id=\"2679\" tvg-logo=\"http://epg.one/img/2679.png\", hop IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696838
-#EXTINF: -1 tvg-id=\"2680\" tvg-logo=\"http://epg.one/img/2680.png\", Home Plus IL
+#EXTINF:0 tvg-id=\"2680\" tvg-logo=\"http://epg.one/img/2680.png\", Home Plus IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696839
-#EXTINF: -1 tvg-id=\"2681\" tvg-logo=\"http://epg.one/img/2681.png\", ONE HD IL
+#EXTINF:0 tvg-id=\"2681\" tvg-logo=\"http://epg.one/img/2681.png\", ONE HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696840
-#EXTINF: -1 tvg-id=\"2682\" tvg-logo=\"http://epg.one/img/2682.png\", Sport 5 HD IL
+#EXTINF:0 tvg-id=\"2682\" tvg-logo=\"http://epg.one/img/2682.png\", Sport 5 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696841
-#EXTINF: -1 tvg-id=\"2974\" tvg-logo=\"http://epg.one/img/2974.png\", Yes Israeli Cinema
+#EXTINF:0 tvg-id=\"2974\" tvg-logo=\"http://epg.one/img/2974.png\", Yes Israeli Cinema
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696842
-#EXTINF: -1 tvg-id=\"4007\" tvg-logo=\"http://epg.one/img/4007.png\", Yes DRAMA HD IL
+#EXTINF:0 tvg-id=\"4007\" tvg-logo=\"http://epg.one/img/4007.png\", Yes DRAMA HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696843
-#EXTINF: -1 tvg-id=\"2972\" tvg-logo=\"http://epg.one/img/2972.png\", Yes DOCU HD IL
+#EXTINF:0 tvg-id=\"2972\" tvg-logo=\"http://epg.one/img/2972.png\", Yes DOCU HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696844
-#EXTINF: -1 tvg-id=\"4021\" tvg-logo=\"http://epg.one/img/4021.png\", Yes COMEDY HD IL
+#EXTINF:0 tvg-id=\"4021\" tvg-logo=\"http://epg.one/img/4021.png\", Yes COMEDY HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696845
-#EXTINF: -1 tvg-id=\"3999\" tvg-logo=\"http://epg.one/img/3999.png\", Yes ACTION HD IL
+#EXTINF:0 tvg-id=\"3999\" tvg-logo=\"http://epg.one/img/3999.png\", Yes ACTION HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696846
-#EXTINF: -1 tvg-id=\"2968\" tvg-logo=\"http://epg.one/img/2968.png\", Yes Movies Comedy IL
+#EXTINF:0 tvg-id=\"2968\" tvg-logo=\"http://epg.one/img/2968.png\", Yes Movies Comedy IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696847
-#EXTINF: -1 tvg-id=\"2967\" tvg-logo=\"http://epg.one/img/2967.png\", Yes Movies Kids IL
+#EXTINF:0 tvg-id=\"2967\" tvg-logo=\"http://epg.one/img/2967.png\", Yes Movies Kids IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696848
-#EXTINF: -1 tvg-id=\"2966\" tvg-logo=\"http://epg.one/img/2966.png\", Yes Movies Action IL
+#EXTINF:0 tvg-id=\"2966\" tvg-logo=\"http://epg.one/img/2966.png\", Yes Movies Action IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696849
-#EXTINF: -1 tvg-id=\"2965\" tvg-logo=\"http://epg.one/img/2965.png\", Yes Movies Drama IL
+#EXTINF:0 tvg-id=\"2965\" tvg-logo=\"http://epg.one/img/2965.png\", Yes Movies Drama IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696850
-#EXTINF: -1 tvg-id=\"2683\" tvg-logo=\"http://epg.one/img/2683.png\", SPORT 2 HD IL
+#EXTINF:0 tvg-id=\"2683\" tvg-logo=\"http://epg.one/img/2683.png\", SPORT 2 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696851
-#EXTINF: -1 tvg-id=\"2684\" tvg-logo=\"http://epg.one/img/2684.png\", Sport 1 HD IL
+#EXTINF:0 tvg-id=\"2684\" tvg-logo=\"http://epg.one/img/2684.png\", Sport 1 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696852
-#EXTINF: -1 tvg-id=\"2685\" tvg-logo=\"http://epg.one/img/2685.png\", Hot HBO HD IL
+#EXTINF:0 tvg-id=\"2685\" tvg-logo=\"http://epg.one/img/2685.png\", Hot HBO HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696853
-#EXTINF: -1 tvg-id=\"2686\" tvg-logo=\"http://epg.one/img/2686.png\", Good Life IL
+#EXTINF:0 tvg-id=\"2686\" tvg-logo=\"http://epg.one/img/2686.png\", Good Life IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696854
-#EXTINF: -1 tvg-id=\"2687\" tvg-logo=\"http://epg.one/img/2687.png\", HOT cinema 4 IL
+#EXTINF:0 tvg-id=\"2687\" tvg-logo=\"http://epg.one/img/2687.png\", HOT cinema 4 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696855
-#EXTINF: -1 tvg-id=\"2688\" tvg-logo=\"http://epg.one/img/2688.png\", HOT cinema 1 IL
+#EXTINF:0 tvg-id=\"2688\" tvg-logo=\"http://epg.one/img/2688.png\", HOT cinema 1 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696856
-#EXTINF: -1 tvg-id=\"2689\" tvg-logo=\"http://epg.one/img/325.png\", Discovery HD IL
+#EXTINF:0 tvg-id=\"2689\" tvg-logo=\"http://epg.one/img/325.png\", Discovery HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696857
-#EXTINF: -1 tvg-id=\"2690\" tvg-logo=\"http://epg.one/img/2690.png\", ZOOM IL
+#EXTINF:0 tvg-id=\"2690\" tvg-logo=\"http://epg.one/img/2690.png\", ZOOM IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696858
-#EXTINF: -1 tvg-id=\"2691\" tvg-logo=\"http://epg.one/img/2691.png\", Hot Zone
+#EXTINF:0 tvg-id=\"2691\" tvg-logo=\"http://epg.one/img/2691.png\", Hot Zone
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696859
-#EXTINF: -1 tvg-id=\"2692\" tvg-logo=\"http://epg.one/img/2692.png\", Travel Channel IL
+#EXTINF:0 tvg-id=\"2692\" tvg-logo=\"http://epg.one/img/2692.png\", Travel Channel IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696860
-#EXTINF: -1 tvg-id=\"4312\" tvg-logo=\"http://epg.one/img/4312.png\", Sport 5+ Live HD IL
+#EXTINF:0 tvg-id=\"4312\" tvg-logo=\"http://epg.one/img/4312.png\", Sport 5+ Live HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696861
-#EXTINF: -1 tvg-id=\"4030\" tvg-logo=\"http://epg.one/img/4030.png\", Harutz Hadramot Haturkiyot
+#EXTINF:0 tvg-id=\"4030\" tvg-logo=\"http://epg.one/img/4030.png\", Harutz Hadramot Haturkiyot
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696862
-#EXTINF: -1 tvg-id=\"2695\" tvg-logo=\"http://epg.one/img/2695.png\", Hot Luli
+#EXTINF:0 tvg-id=\"2695\" tvg-logo=\"http://epg.one/img/2695.png\", Hot Luli
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696863
-#EXTINF: -1 tvg-id=\"4003\" tvg-logo=\"http://epg.one/img/4003.png\", Kids IL
+#EXTINF:0 tvg-id=\"4003\" tvg-logo=\"http://epg.one/img/4003.png\", Kids IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696864
-#EXTINF: -1 tvg-id=\"2697\" tvg-logo=\"http://epg.one/img/2697.png\", Junior IL
+#EXTINF:0 tvg-id=\"2697\" tvg-logo=\"http://epg.one/img/2697.png\", Junior IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696865
-#EXTINF: -1 tvg-id=\"2698\" tvg-logo=\"http://epg.one/img/2698.png\", HOT 3
+#EXTINF:0 tvg-id=\"2698\" tvg-logo=\"http://epg.one/img/2698.png\", HOT 3
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696866
-#EXTINF: -1 tvg-id=\"2679\" tvg-logo=\"http://epg.one/img/2679.png\", Hop! Yaldut Israelit
+#EXTINF:0 tvg-id=\"2679\" tvg-logo=\"http://epg.one/img/2679.png\", Hop! Yaldut Israelit
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696867
-#EXTINF: -1 tvg-id=\"2700\" tvg-logo=\"http://epg.one/img/2700.png\", Channel 98 IL
+#EXTINF:0 tvg-id=\"2700\" tvg-logo=\"http://epg.one/img/2700.png\", Channel 98 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696868
-#EXTINF: -1 tvg-id=\"2701\" tvg-logo=\"http://epg.one/img/2701.png\", Baby IL
+#EXTINF:0 tvg-id=\"2701\" tvg-logo=\"http://epg.one/img/2701.png\", Baby IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696869
-#EXTINF: -1 tvg-id=\"2702\" tvg-logo=\"http://epg.one/img/2702.png\", HOT cinema 2 IL
+#EXTINF:0 tvg-id=\"2702\" tvg-logo=\"http://epg.one/img/2702.png\", HOT cinema 2 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696870
-#EXTINF: -1 tvg-id=\"2703\" tvg-logo=\"http://epg.one/img/2703.png\", HOT cinema 3 IL
+#EXTINF:0 tvg-id=\"2703\" tvg-logo=\"http://epg.one/img/2703.png\", HOT cinema 3 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696871
-#EXTINF: -1 tvg-id=\"2704\" tvg-logo=\"http://epg.one/img/2704.png\", ONE 2 HD IL
+#EXTINF:0 tvg-id=\"2704\" tvg-logo=\"http://epg.one/img/2704.png\", ONE 2 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696872
-#EXTINF: -1 tvg-id=\"2672\" tvg-logo=\"http://epg.one/img/2672.png\", Channel 9 HD IL
+#EXTINF:0 tvg-id=\"2672\" tvg-logo=\"http://epg.one/img/2672.png\", Channel 9 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696873
-#EXTINF: -1 tvg-id=\"2707\" tvg-logo=\"http://epg.one/img/2707.png\", Ego Total IL
+#EXTINF:0 tvg-id=\"2707\" tvg-logo=\"http://epg.one/img/2707.png\", Ego Total IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696874
-#EXTINF: -1 tvg-id=\"2708\" tvg-logo=\"http://epg.one/img/2708.png\", Food Network IL
+#EXTINF:0 tvg-id=\"2708\" tvg-logo=\"http://epg.one/img/2708.png\", Food Network IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696875
-#EXTINF: -1 tvg-id=\"2709\" tvg-logo=\"http://epg.one/img/2709.png\", Health IL
+#EXTINF:0 tvg-id=\"2709\" tvg-logo=\"http://epg.one/img/2709.png\", Health IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696876
-#EXTINF: -1 tvg-id=\"2710\" tvg-logo=\"http://epg.one/img/2710.png\", Entertainment IL
+#EXTINF:0 tvg-id=\"2710\" tvg-logo=\"http://epg.one/img/2710.png\", Entertainment IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696877
-#EXTINF: -1 tvg-id=\"2711\" tvg-logo=\"http://epg.one/img/2711.png\", Kan Elady
+#EXTINF:0 tvg-id=\"2711\" tvg-logo=\"http://epg.one/img/2711.png\", Kan Elady
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696878
-#EXTINF: -1 tvg-id=\"2712\" tvg-logo=\"http://epg.one/img/2712.png\", Mekan 33
+#EXTINF:0 tvg-id=\"2712\" tvg-logo=\"http://epg.one/img/2712.png\", Mekan 33
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696879
-#EXTINF: -1 tvg-id=\"2713\" tvg-logo=\"http://epg.one/img/2713.png\", Viva+ IL
+#EXTINF:0 tvg-id=\"2713\" tvg-logo=\"http://epg.one/img/2713.png\", Viva+ IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696880
-#EXTINF: -1 tvg-id=\"2714\" tvg-logo=\"http://epg.one/img/2714.png\", Yaldut IL
+#EXTINF:0 tvg-id=\"2714\" tvg-logo=\"http://epg.one/img/2714.png\", Yaldut IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696881
-#EXTINF: -1 tvg-id=\"2717\" tvg-logo=\"http://epg.one/img/2717.png\", i24 IL
+#EXTINF:0 tvg-id=\"2717\" tvg-logo=\"http://epg.one/img/2717.png\", i24 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696882
-#EXTINF: -1 tvg-id=\"2718\" tvg-logo=\"http://epg.one/img/2718.png\", VIVA IL
+#EXTINF:0 tvg-id=\"2718\" tvg-logo=\"http://epg.one/img/2718.png\", VIVA IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696883
-#EXTINF: -1 tvg-id=\"2719\" tvg-logo=\"http://epg.one/img/2719.png\", Sport 3 HD IL
+#EXTINF:0 tvg-id=\"2719\" tvg-logo=\"http://epg.one/img/2719.png\", Sport 3 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696884
-#EXTINF: -1 tvg-id=\"2720\" tvg-logo=\"http://epg.one/img/2720.png\", Sport 4 HD IL
+#EXTINF:0 tvg-id=\"2720\" tvg-logo=\"http://epg.one/img/2720.png\", Sport 4 HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696885
-#EXTINF: -1 tvg-id=\"4011\" tvg-logo=\"http://epg.one/img/4011.png\", Yamtihoni IL
+#EXTINF:0 tvg-id=\"4011\" tvg-logo=\"http://epg.one/img/4011.png\", Yamtihoni IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696886
-#EXTINF: -1 tvg-id=\"2682\" tvg-logo=\"http://epg.one/img/2682.png\", Sport 5 IL
+#EXTINF:0 tvg-id=\"2682\" tvg-logo=\"http://epg.one/img/2682.png\", Sport 5 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696887
-#EXTINF: -1 tvg-id=\"2972\" tvg-logo=\"http://epg.one/img/2972.png\", Yes Docu FHD IL
+#EXTINF:0 tvg-id=\"2972\" tvg-logo=\"http://epg.one/img/2972.png\", Yes Docu FHD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696888
-#EXTINF: -1 tvg-id=\"4301\" tvg-logo=\"http://epg.one/img/4301.png\", Kan Educational HD IL
+#EXTINF:0 tvg-id=\"4301\" tvg-logo=\"http://epg.one/img/4301.png\", Kan Educational HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696889
-#EXTINF: -1 tvg-id=\"4313\" tvg-logo=\"http://epg.one/img/4313.png\", Eurosport 2 orig
+#EXTINF:0 tvg-id=\"4313\" tvg-logo=\"http://epg.one/img/4313.png\", Eurosport 2 orig
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696890
-#EXTINF: -1 tvg-id=\"2674\" tvg-logo=\"http://epg.one/img/2674.png\", DISNEY JR IL
+#EXTINF:0 tvg-id=\"2674\" tvg-logo=\"http://epg.one/img/2674.png\", DISNEY JR IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696891
-#EXTINF: -1 tvg-id=\"2707\" tvg-logo=\"http://epg.one/img/2707.png\", EGO TOTAL HD IL
+#EXTINF:0 tvg-id=\"2707\" tvg-logo=\"http://epg.one/img/2707.png\", EGO TOTAL HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696892
-#EXTINF: -1 tvg-id=\"5015\" tvg-logo=\"http://epg.one/img/5015.png\", EXTREME IL
+#EXTINF:0 tvg-id=\"5015\" tvg-logo=\"http://epg.one/img/5015.png\", EXTREME IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696893
-#EXTINF: -1 tvg-id=\"2708\" tvg-logo=\"http://epg.one/img/2708.png\", FOOD CHANNE IL
+#EXTINF:0 tvg-id=\"2708\" tvg-logo=\"http://epg.one/img/2708.png\", FOOD CHANNE IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696894
-#EXTINF: -1 tvg-id=\"2709\" tvg-logo=\"http://epg.one/img/2709.png\", HEALTH CHANNEL HD IL
+#EXTINF:0 tvg-id=\"2709\" tvg-logo=\"http://epg.one/img/2709.png\", HEALTH CHANNEL HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696895
 #EXTINF: -1 tvg-id=\"2716\" tvg-logo=\"http://epg.one/img/2716.png\", HIDABRUT IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696896
