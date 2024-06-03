@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="2670" tvg-logo="http://epg.one/img/2670.png" ,Keshet 12 IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696824
-#EXTINF: -1 tvg-id=\"9055\" tvg-logo=\"http://epg.one/img/9055.png\" , Viva Premium HD IL
+#EXTINF: -1 tvg-id=\"9055\" tvg-logo=\"http://epg.one/img/9055.png" , Viva Premium HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696825
 #EXTINF: -1 tvg-id=\"9111\" tvg-logo=\"http://epg.one/img/9111.png\", Game Show Channel HD IL
 https://m3u-editor.com/serve/4a7219a0-2102-11ef-b130-4556968b118c/1176696826
