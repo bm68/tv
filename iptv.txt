@@ -1,0 +1,248 @@
+#EXTINF:0,Baby TV [IL]
+http://s.only4.tv/7039/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Junior [IL]
+http://s.only4.tv/7040/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Discovery Channel HD [IL]
+http://s.only4.tv/7041/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Disney Channel HD [IL]
+http://s.only4.tv/7042/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,E! [IL]
+http://s.only4.tv/7043/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,National Geographic HD [IL]
+http://s.only4.tv/7047/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,National Geographic Wild HD [IL]
+http://s.only4.tv/7048/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 1 HD [IL]
+http://s.only4.tv/7049/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 2 HD [IL]
+http://s.only4.tv/7050/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 3 HD [IL]
+http://s.only4.tv/7051/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 4 HD [IL]
+http://s.only4.tv/7052/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 HD [IL]
+http://s.only4.tv/7053/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV Israeli Cinema HD [IL]
+http://s.only4.tv/7054/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 Live HD [IL]
+http://s.only4.tv/7055/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 Gold [IL]
+http://s.only4.tv/7056/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 Stars [IL]
+http://s.only4.tv/7046/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 4K [IL]
+http://s.only4.tv/10467/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport 5 Plus [IL]
+http://s.only4.tv/10468/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport TO GO 1 [IL]
+http://s.only4.tv/10469/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Sport TO GO 2 [IL]
+http://s.only4.tv/10470/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES Doku HD [IL]
+http://s.only4.tv/7058/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,12 Keshet [IL]
+http://s.only4.tv/7062/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Good Life TV [IL]
+http://s.only4.tv/7063/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Channel 24 [IL]
+http://s.only4.tv/7064/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,History HD [IL]
+http://s.only4.tv/7065/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,13 Reshet [IL]
+http://s.only4.tv/7067/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES Movies Action HD [IL]
+http://s.only4.tv/7070/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES Movies Comedy HD [IL]
+http://s.only4.tv/7071/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES Movies Drama HD [IL]
+http://s.only4.tv/7072/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES Movies Kods HD [IL]
+http://s.only4.tv/7073/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YAM Tihoni Plus HD [IL]
+http://s.only4.tv/7074/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV Cinema Family HD [IL]
+http://s.only4.tv/7075/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Luli TV [IL]
+http://s.only4.tv/7076/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Zone HD [IL]
+http://s.only4.tv/7077/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Cinema 1 HD [IL]
+http://s.only4.tv/10463/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Cinema 2 HD [IL]
+http://s.only4.tv/10464/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Cinema 3 HD [IL]
+http://s.only4.tv/10465/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Cinema 4 HD [IL]
+http://s.only4.tv/10466/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Real HD [IL]
+http://s.only4.tv/10478/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Senior HD [IL]
+http://s.only4.tv/10479/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Buzz HD [IL]
+http://s.only4.tv/10480/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES TV Comedy HD [IL]
+http://s.only4.tv/7081/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES TV Drama HD [IL]
+http://s.only4.tv/7082/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Channel 9 HD [IL]
+http://s.only4.tv/7084/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Channel 11 [IL]
+http://s.only4.tv/10434/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Disney Jr. HD [IL]
+http://s.only4.tv/7087/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Makan HD [IL]
+http://s.only4.tv/7106/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Real TV [IL]
+http://s.only4.tv/7107/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Home+ TV [IL]
+http://s.only4.tv/7108/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Channel 14 [IL]
+http://s.only4.tv/7109/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Nickelodeon HD [IL]
+http://s.only4.tv/7110/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,ONE 1 HD [IL]
+http://s.only4.tv/7111/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,ONE 2 HD [IL]
+http://s.only4.tv/10481/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,ONE Edge HD [IL]
+http://s.only4.tv/10473/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA Telenovelas [IL]
+http://s.only4.tv/7114/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA Istanbul [IL]
+http://s.only4.tv/7115/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YAM Tihoni HD [IL]
+http://s.only4.tv/7116/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Star Channel [IL]
+http://s.only4.tv/7119/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,ONE Doco HD [IL]
+http://s.only4.tv/7120/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Wiz TV [IL]
+http://s.only4.tv/8386/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Travel TV [IL]
+http://s.only4.tv/8387/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOP [IL]
+http://s.only4.tv/8396/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YAM Tihoni 2 [IL]
+http://s.only4.tv/8397/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA Premium HD [IL]
+http://s.only4.tv/8398/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA [IL]
+http://s.only4.tv/10489/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA Plus [IL]
+http://s.only4.tv/10490/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,VIVA Vintage [IL]
+http://s.only4.tv/10491/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Food Network [IL]
+http://s.only4.tv/8399/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Health Channel [IL]
+http://s.only4.tv/8400/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Humor Channel [IL]
+http://s.only4.tv/8401/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV 8 [IL]
+http://s.only4.tv/8406/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV Cinema Family [IL]
+http://s.only4.tv/8407/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT HBO HD [IL]
+http://s.only4.tv/8408/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV Bidur Israeli HD [IL]
+http://s.only4.tv/8409/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT Comedy Central HD [IL]
+http://s.only4.tv/8410/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOT TV 3 [IL]
+http://s.only4.tv/8411/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YES TV Movies Israeli Kino HD [IL]
+http://s.only4.tv/8413/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,FREE TV Movies Comedy HD [IL]
+http://s.only4.tv/7118/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom Israel [IL]
+http://s.only4.tv/10435/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom Movies Drama [IL]
+http://s.only4.tv/10436/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom Movies Action [IL]
+http://s.only4.tv/10437/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom Movies Kids [IL]
+http://s.only4.tv/10438/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom HBO HD [IL]
+http://s.only4.tv/10439/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Cellcom Doku HD [IL]
+http://s.only4.tv/10440/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Ego Total [IL]
+http://s.only4.tv/10441/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Eurosport 1 HD [IL]
+http://s.only4.tv/10442/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Eurosport 2 HD [IL]
+http://s.only4.tv/10443/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Drama HD [IL]
+http://s.only4.tv/10444/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Lifestyle HD [IL]
+http://s.only4.tv/10445/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Cooking HD [IL]
+http://s.only4.tv/10446/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Doco HD [IL]
+http://s.only4.tv/10447/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Hatuna HD [IL]
+http://s.only4.tv/10448/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Karaoke HD [IL]
+http://s.only4.tv/10449/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Kohav Haba HD [IL]
+http://s.only4.tv/10450/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Feel Good HD [IL]
+http://s.only4.tv/10451/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Series Global HD [IL]
+http://s.only4.tv/10452/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Action HD [IL]
+http://s.only4.tv/10453/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Comedy HD [IL]
+http://s.only4.tv/10454/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Drama HD [IL]
+http://s.only4.tv/10455/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Horror HD [IL]
+http://s.only4.tv/10456/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Romantic HD [IL]
+http://s.only4.tv/10457/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Israeli Movies HD [IL]
+http://s.only4.tv/10458/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Free TV Movies Family HD [IL]
+http://s.only4.tv/10459/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Partner Yladim [IL]
+http://s.only4.tv/10460/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Partner Sratim [IL]
+http://s.only4.tv/10461/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Partner Sdarot [IL]
+http://s.only4.tv/10462/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Animal Planet HD [IL]
+http://s.only4.tv/10471/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Bollywood HD [IL]
+http://s.only4.tv/10472/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Erez Nehederet HD [IL]
+http://s.only4.tv/10474/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Foody HD [IL]
+http://s.only4.tv/10475/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Fomo TV [IL]
+http://s.only4.tv/10476/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,HOP Israeli Childhood [IL]
+http://s.only4.tv/10477/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Savri HD [IL]
+http://s.only4.tv/10482/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Spanish Drama 1 HD [IL]
+http://s.only4.tv/10483/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Turkish Drama Plus [IL]
+http://s.only4.tv/10484/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Turkish Drama 2 [IL]
+http://s.only4.tv/10485/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Turkish Drama 3 [IL]
+http://s.only4.tv/10486/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,TeenNick [IL]
+http://s.only4.tv/10487/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,TLC HD [IL]
+http://s.only4.tv/10488/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Yalduti [IL]
+http://s.only4.tv/10492/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,YoYo [IL]
+http://s.only4.tv/10493/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Zoom [IL]
+http://s.only4.tv/10494/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,Zoom Toon HD [IL]
+http://s.only4.tv/10495/index.m3u8?token=SowFU8pkSB
+#EXTINF:0,i24 News HD [IL]
+http://s.only4.tv/10868/index.m3u8?token=SowFU8pkSB
