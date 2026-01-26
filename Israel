@@ -5,15 +5,15 @@ https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/in
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 ERETZ COUNTRY
+#EXTINF:0 tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 ERETZ COUNTRY
 https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1769510949~acl=%2f*~data=hdntl~hmac=6572e08edfc3cafca36098bf757f2ddbb23abaa0b4dc8f88ed97b0d808c839d7/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 SAVRI MARNAN
+#EXTINF:0 tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 SAVRI MARNAN
 https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1769510405~acl=%2f*~data=hdntl~hmac=55843f7bf7308e160f172c429d952ba6293d0aead1e75fe83f63f7e394918176/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 HATUNA WEDDING
+#EXTINF:0 tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 HATUNA WEDDING
 https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1769511078~acl=%2f*~data=hdntl~hmac=11453b77c3575c1e5dba71cc1520f010f9dbfc61018da8964efcb6afb50042e3/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 NINJA ISR
+#EXTINF:0 tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 NINJA ISR
 https://mako-streaming.akamaized.net/free/hls/live/2111419/ninja/hdntl=exp=1769511138~acl=%2f*~data=hdntl~hmac=b33093755e6b5f42e24081e3c11b6cae56c40a38dbaa9fba106434b51a87aa83/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YR2hWPq/stare-0ec07318c4.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 KOHAV STAR
+#EXTINF:0 tvg-logo="https://i.ibb.co/1YR2hWPq/stare-0ec07318c4.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 KOHAV STAR
 https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=1769511200~acl=%2f*~data=hdntl~hmac=97441738eda5fd0bc3d0131acd776b683eec7c5f55e46957d0ae0198aeb3ab52/video_10801920_p_0.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="|IL|🇮🇱 ISRAEL",ISRAEL PLUS 9 канал
 https://contact.gostreaming.tv/Con-11/index.m3u8
