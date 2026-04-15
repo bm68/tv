@@ -18,9 +18,9 @@ https://mako-streaming.akamaized.net/free/hls/live/2111419/kohav/hdntl=exp=17695
 #EXTINF:0 tvg-logo="https://i.ibb.co/gj3pVwr/9il.png" group-title="|IL|🇮🇱 ISRAEL",ISRAEL PLUS 9 канал
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/fMMBKqc/kan11.png" group-title="|IL|🇮🇱 ISRAEL",KAN 11
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
