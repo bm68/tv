@@ -6,9 +6,9 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 #EXTINF:0 tvg-logo="https://i.ibb.co/9sX793L/13reality.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13 REALITY
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Dg5nXff3/eretz-f279947977.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 ERETZ COUNTRY
-https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1769510949~acl=%2f*~data=hdntl~hmac=6572e08edfc3cafca36098bf757f2ddbb23abaa0b4dc8f88ed97b0d808c839d7/video_10801920_p_0.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/erets/hdntl=exp=1776344531~acl=%2f*~data=hdntl~hmac=1374b9eb83e67dd85ab54e77c28a6fbacc5ff6765b5b1c1994b523d4d91b2729/video_10801920_p_0.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LhNb3b2w/savri-b2b1f62823.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 SAVRI MARNAN
-https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1769510405~acl=%2f*~data=hdntl~hmac=55843f7bf7308e160f172c429d952ba6293d0aead1e75fe83f63f7e394918176/video_10801920_p_0.m3u8
+https://mako-streaming.akamaized.net/free/hls/live/2111419/savri/hdntl=exp=1776344692~acl=%2f*~data=hdntl~hmac=b5157032122531f8cde4f8a026a817ac1161a54d14841e5ebe0813784685f540/video_10801920_p_0.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/LXhjZST3/hatunami-36ea66f716.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 HATUNA WEDDING
 https://mako-streaming.akamaized.net/free/hls/live/2111419/hatuna/hdntl=exp=1769511078~acl=%2f*~data=hdntl~hmac=11453b77c3575c1e5dba71cc1520f010f9dbfc61018da8964efcb6afb50042e3/video_10801920_p_0.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/ymYxLNXp/ninjac-cba330ef0c.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12 NINJA ISR
@@ -26,7 +26,7 @@ https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=0&rK=b6
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1776344349~acl=%2f*~data=hdntl~hmac=c518c9752da766eb51854bac988e33ba590a761f9ef9348af8a06eef49caeb97/profileManifest.m3u8?_uid=ba7969fb-7db5-4f21-bd61-bf484340478e&rK=b9&_did=94a4e5b8-03ca-4a9e-bc36-b9f9444ba20f
 #EXTINF:0 tvg-logo="https://i.ibb.co/5TQ4RM3/Keshet12.png" group-title="|IL|🇮🇱 ISRAEL",KESHET 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/profileManifest.m3u8?_uid=f09f36e3-bb80-4713-a83c-d083f6c36d01&rK=b10&_did=767a0d43-683f-5aba-6307-b1512aa3992d
 #EXTINF:0 tvg-logo="https://i.ibb.co/MnSQCcr/R1322.jpg" group-title="|IL|🇮🇱 ISRAEL",RESHET 13
